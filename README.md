@@ -18,15 +18,13 @@ powered with VanillaJS and CSS.
 - 🪢 Smooth tilt animation
 - 📱 Compatible with computers, phones, and tablets
 - 🎨 Color scheme to easy on the eyes.
-- 🔒 Password protected.
 - 🥷 Hidden buttons to keep you interested.
 
      
 
-> Introducing our _sleek, password-protected_ calculator designed for style and functionality.
+> Introducing our _sleek, glassmorphic_ calculator designed for style and functionality.
 > Its modern aesthetic blends seamlessly with its innovative features,
 > including stylish animations and hidden features.
-> With its secure password protection,
 > your calculations remain confidential
 > while you enjoy a seamless, 
 > user-friendly experience.
