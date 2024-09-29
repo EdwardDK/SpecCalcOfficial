@@ -1,6 +1,6 @@
 
 
-# Special Calculator || [Paid Access](https://discord.gg/TjCM2untHc)
+# Special Calculator
 ## _A tool you won't regret using_
 
 
@@ -31,14 +31,6 @@ powered with VanillaJS and CSS.
 > while you enjoy a seamless, 
 > user-friendly experience.
 
-## 💵 How to Pay
-
-You can buy this calculator from me by sending ```$15``` on CashApp <br><br>
-You can join the [Discord](https://discord.gg/TjCM2untHc) server and pay me from there. <br><br>
-**You can pay in fortnite gifts and giftcards for games, visa, etc.**<br><br>
-> **[Cashapp](https://cash.app/$EddyD47)**<br><br>
-> **[Discord Server](https://discord.gg/TjCM2untHc)**<br><br>
-![Cashapp](https://img.shields.io/badge/Cash%20App-00C244.svg?style=for-the-badge&logo=Cash-App&logoColor=white)
 
 ## ⌨️ Tech
 
@@ -58,6 +50,9 @@ Languages and frameworks to make this project real:
 
 ## 💾 How to Use
 
+CTRL+SHIFT+A - website1
+CTRL+SHIFT+Z - website2
+CTRL+SHIFT+F - list
 The calculator requires an update browser to run. _Also, you need to have JavaScript enabled._
 
 [Chrome](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop) v120+ to run
